@@ -1,7 +1,7 @@
 ![logo](https://github.com/callmenoway/callmenoway/blob/main/Github%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm noway</h1>
 <h3 align="center">A passionate frontend developer from Italy</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="https://cdn.discordapp.com/attachments/1026197121663258705/1091825147125715055/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=callmenoway&label=Profile%20views&color=0e75b6&style=flat" alt="callmenoway" /> </p>
 
 - 🔭 I’m currently working on [SilentScreenshare](https://github.com/callmenoway/SilentScreenshare)
@@ -31,8 +31,5 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/noway"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="noway" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=callmenoway&show_icons=true&locale=en&layout=compact" alt="callmenoway" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=callmenoway&show_icons=true&locale=en" alt="callmenoway" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=callmenoway&" alt="callmenoway" /></p>
