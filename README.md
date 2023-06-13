@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/callmenoway](https://github.com/callmenoway)
 
-- 📝 I regularly post photos on [https://instagram.com/davidecose](https://instagram.com/davidecose)
+- 📝 I regularly post photos on [https://instagram.com/davidecose](https://instagram.com/davide.cose)
 
 - 📫 How to reach me **ricfranki052@gmail.com**
 
