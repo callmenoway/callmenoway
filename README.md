@@ -14,7 +14,7 @@
 
 - 📝 I regularly post photos on [https://instagram.com/davidecose](https://instagram.com/davide.cose)
 
-- 📫 How to reach me **ricfranki052@gmail.com**
+- 📫 How to reach me **dev@noway.studio**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
