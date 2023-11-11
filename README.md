@@ -33,5 +33,3 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=callmenoway&" alt="callmenoway" /></p>
-
-<a href="https://discord.gg/KaaUPEbfPZ" target="_blank"><img src="https://github.com/AstraaDev/AstraaDev/blob/output/github-contribution-grid-snake.svg" alt="snake"></a>
