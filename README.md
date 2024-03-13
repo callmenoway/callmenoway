@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [SilentScreenshare](https://github.com/callmenoway/SilentScreenshare)
 
-- 🌱 I’m currently learning **Frameworks and php**
+- 🌱 I’m currently learning **Php and React framework**
 
 - 🤝 I’m looking for help with [IP-Logger](https://github.com/callmenoway/IP-Logger)
 
