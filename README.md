@@ -1,4 +1,4 @@
-[comment]: <> (![logo](https://github.com/callmenoway/callmenoway/blob/main/Github%20Banner.jpg))
+<!---![logo](https://github.com/callmenoway/callmenoway/blob/main/Github%20Banner.jpg)--->
 <h1 align="center">Hi 👋, I'm noway</h1>
 <h3 align="center">A passionate frontend developer from Italy</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.discordapp.com/attachments/1026197121663258705/1091825147125715055/giphy.gif">
