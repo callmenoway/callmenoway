@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://cdn.discordapp.com/attachments/1026197121663258705/1091825147125715055/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=callmenoway&label=Profile%20views&color=0e75b6&style=flat" alt="callmenoway" /> </p>
 
-<a href="https://instagram.com/davide.cose" target="blank"><img align="center" src="Https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg](https://wakatime.com/badge/user/018cbc0e-79a9-41de-9ed4-11395b70eafd.svg)" alt="wakatime" height="30" width="40" /></a>
+<a href="https://instagram.com/davide.cose" target="blank"><img align="center" src="https://wakatime.com/badge/user/018cbc0e-79a9-41de-9ed4-11395b70eafd.svg" alt="wakatime"/></a>
 - 🔭 I’m currently working on [SilentScreenshare](https://github.com/callmenoway/SilentScreenshare)
 
 - 🌱 I’m currently learning **Php and React framework**
