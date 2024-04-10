@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from Italy</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.discordapp.com/attachments/1026197121663258705/1091825147125715055/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=callmenoway&label=Profile%20views&color=0e75b6&style=flat" alt="callmenoway" /> </p>
-
+[![wakatime](https://wakatime.com/badge/github/callmenoway/callmenoway.svg)](https://wakatime.com/badge/github/callmenoway/callmenoway)
 - 🔭 I’m currently working on [SilentScreenshare](https://github.com/callmenoway/SilentScreenshare)
 
 - 🌱 I’m currently learning **Php and React framework**
