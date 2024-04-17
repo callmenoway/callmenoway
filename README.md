@@ -7,7 +7,7 @@
 <a href="https://instagram.com/davide.cose" target="blank"><img align="center" src="https://wakatime.com/badge/user/018cbc0e-79a9-41de-9ed4-11395b70eafd.svg" alt="wakatime"/></a>
 - 🔭 I’m currently working on [SilentScreenshare](https://github.com/callmenoway/SilentScreenshare)
 
-- 🌱 I’m currently learning **Php and React framework**
+- 🌱 I’m currently learning **Laravel and React framework**
 
 - 🤝 I’m looking for help with [IP-Logger](https://github.com/callmenoway/IP-Logger)
 
