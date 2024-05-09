@@ -33,5 +33,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=callmenoway&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" width="396" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=callmenoway&theme=vue-dark&hide_border=true" width="396" />
 </p>
-
-<a href="https://fb.com/davide.cose" target="blank"><img align="center" src="https://wakatime.com/share/@noway/0154cccf-f9fc-4c69-929b-b12d026e9948.svg" alt="daaasdasd" /></a>
+<p float="left">
+  <img src="https://wakatime.com/share/@noway/0154cccf-f9fc-4c69-929b-b12d026e9948.svg" width="396" />
+</p>
