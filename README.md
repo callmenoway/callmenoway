@@ -31,7 +31,7 @@
 ## 📈 Profile Stats
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api?username=callmenoway&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" width="396" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=callmenoway&theme=vue-dark&hide_border=true" width="410" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=callmenoway&theme=vue-dark&hide_border=true" width="420" />
 </p>
 <p float="left">
   <img src="https://wakatime.com/share/@noway/0154cccf-f9fc-4c69-929b-b12d026e9948.svg" width="600" />
