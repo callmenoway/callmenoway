@@ -34,5 +34,5 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=callmenoway&theme=vue-dark&hide_border=true" width="396" />
 </p>
 <p float="left">
-  <img src="https://wakatime.com/share/@noway/0154cccf-f9fc-4c69-929b-b12d026e9948.svg" width="396" />
+  <img src="https://wakatime.com/share/@noway/0154cccf-f9fc-4c69-929b-b12d026e9948.svg" width="500" />
 </p>
