@@ -15,14 +15,14 @@
 
 - 📝 I regularly post photos on [https://instagram.com/davidecose](https://instagram.com/davide.cose)
 
-- 📫 How to reach me **dev@noway.studio**
+- 📫 How to reach me **admin@davidecose.it**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/davide.cose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="davide.cose" height="30" width="40" /></a>
 <a href="https://instagram.com/davide.cose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="davide.cose" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/nowayhub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nowayhub" height="30" width="40" /></a>
-<a href="https://discord.gg/westrp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="oceanway" height="30" width="40" /></a> 
+<a href="https://discord.westrp.it" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="oceanway" height="30" width="40" /></a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
