@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NextJS and React framework**
 
-- 👨‍💻 All of my projects are available at [https://github.com/callmenoway](https://github.com/callmenoway)
+- 👨‍💻 All of my projects are available at [https://github.com/callmenoway](https://davidecose.it)
 
 - 📝 I regularly post photos on [https://instagram.com/davidecose](https://instagram.com/davide.cose)
 
