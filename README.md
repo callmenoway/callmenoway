@@ -18,11 +18,9 @@
 <a href="https://github.com/callmenoway">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=callmenoway&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=callmenoway&show_icons=true&line_height=40&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=callmenoway&theme=radical&no-frame=true&no-bg=false&margin-w=4" />
 </a>  
 
-
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=callmenoway&theme=radical&no-frame=true&no-bg=false&margin-w=4)](https://github.com/callmenoway)
 
 ## &#x1f4c8; Wakatime Stats
 <a href="https://wakatime.com/@noway">
