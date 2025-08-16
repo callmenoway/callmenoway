@@ -2,7 +2,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=callmenoway&color=blueviolet&&style=for-the-badge" alt="callmenoway" /> </p>
 <a href="https://wakatime.com/@noway">
-  <p align="center"> <img align="center" src="https://raw.githubusercontent.com/callmenoway/callmenoway/4edd906a675436ec8295a29824afd6487f8d2d0b/snake.svg" alt="callemnoway snake" />
+  <p align="center"> <img align="center" src="https://raw.githubusercontent.com/callmenoway/callmenoway/refs/heads/main/snake.svg" alt="callemnoway snake" />
 </a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
