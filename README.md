@@ -1,6 +1,12 @@
 [![Header](https://raw.githubusercontent.com/callmenoway/callmenoway/main/logo.png "Header")](https://davidecose.it/)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=callmenoway&color=blueviolet&&style=for-the-badge" alt="callmenoway" /> </p>
+<div align="center">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=callmenoway&color=blueviolet&&style=for-the-badge)](https://github.com/callmenoway)
+[![Wakatime](https://wakatime.com/badge/user/018cbc0e-79a9-41de-9ed4-11395b70eafd.svg?style=for-the-badge)](https://wakatime.com/@018cbc0e-79a9-41de-9ed4-11395b70eafd)
+
+</div>
+
 <a href="https://wakatime.com/@noway">
   <p align="center"> <img align="center" src="https://raw.githubusercontent.com/callmenoway/callmenoway/refs/heads/main/snake.svg" alt="callemnoway snake" />
 </a>
@@ -208,6 +214,5 @@ Languages and Tools:
 
 
 ## &#x1f4c8; Wakatime Stats
-<a href="https://wakatime.com/@noway">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=noway&bg_color=1d1f21&layout=compact&title_color=ffffff&text_color=c9cacc&hide=" alt="callemnoway wakatime stats" />
-</a>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
