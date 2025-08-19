@@ -24,3 +24,4 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: false
           SHOW_SHORT_INFO: false
           DEBUG_LOGGING: false
+          Timeline: false
