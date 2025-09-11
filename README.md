@@ -242,10 +242,7 @@ Sunday                   60 commits          █░░░░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-windows                  2 hrs 10 mins       █████████████████████████   99.71 % 
-Stackoverflow-Analysis   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
-RallyExp                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-krz_bytecodeSlayer       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+No Activity Tracked This Week
 ```
 
 **Timeline**
@@ -253,5 +250,5 @@ krz_bytecodeSlayer       0 secs              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/callmenoway/callmenoway/main/assets/bar_graph.png)
 
 
- Last Updated on 10/09/2025 18:45:27 UTC
+ Last Updated on 11/09/2025 18:42:04 UTC
 <!--END_SECTION:waka-->
