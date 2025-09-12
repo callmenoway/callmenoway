@@ -242,7 +242,8 @@ Sunday                   60 commits          █░░░░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+windows                  4 hrs 40 mins       █████████████████████████   98.10 % 
+scrcpy                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 ```
 
 **Timeline**
@@ -250,5 +251,5 @@ No Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/callmenoway/callmenoway/main/assets/bar_graph.png)
 
 
- Last Updated on 11/09/2025 18:42:04 UTC
+ Last Updated on 12/09/2025 18:41:41 UTC
 <!--END_SECTION:waka-->
