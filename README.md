@@ -242,9 +242,7 @@ Sunday                   60 commits          █░░░░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-Bees-Mail                54 mins             ███████████████████░░░░░░   76.75 % 
-etf-eztg-hrm             12 mins             █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
-Videonoleggio            3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+Videonoleggio            3 mins              █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -252,5 +250,5 @@ Videonoleggio            3 mins              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/callmenoway/callmenoway/main/assets/bar_graph.png)
 
 
- Last Updated on 25/11/2025 18:48:41 UTC
+ Last Updated on 26/11/2025 18:45:51 UTC
 <!--END_SECTION:waka-->
