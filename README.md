@@ -242,9 +242,7 @@ Sunday                   60 commits          █░░░░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-rallynav                 2 hrs 9 mins        ████████████████████████░   96.79 % 
-Unknown Project          4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
-demo                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Videonoleggio            35 mins             █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -252,5 +250,5 @@ demo                     0 secs              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/callmenoway/callmenoway/main/assets/bar_graph.png)
 
 
- Last Updated on 17/12/2025 18:53:10 UTC
+ Last Updated on 18/12/2025 18:52:17 UTC
 <!--END_SECTION:waka-->
