@@ -242,7 +242,8 @@ Sunday                   60 commits          █░░░░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-Videonoleggio            35 mins             █████████████████████████   100.00 % 
+6even                    37 mins             █████████████████████████   99.94 % 
+rallynav                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 ```
 
 **Timeline**
@@ -250,5 +251,5 @@ Videonoleggio            35 mins             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/callmenoway/callmenoway/main/assets/bar_graph.png)
 
 
- Last Updated on 24/12/2025 18:49:43 UTC
+ Last Updated on 25/12/2025 18:49:59 UTC
 <!--END_SECTION:waka-->
