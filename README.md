@@ -215,7 +215,7 @@ Languages and Tools:
 
 ## &#x1f4c8; Wakatime Stats
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.6%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.63%20million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
@@ -242,9 +242,8 @@ Sunday                   60 commits          █░░░░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-rallynav                 1 hr 8 mins         ██████████████░░░░░░░░░░░   56.45 % 
-6even                    37 mins             ████████░░░░░░░░░░░░░░░░░   30.98 % 
-InstaGPy                 15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+rallynav                 1 hr 8 mins         ████████████████████░░░░░   81.78 % 
+InstaGPy                 15 mins             █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
 ```
 
 **Timeline**
@@ -252,5 +251,5 @@ InstaGPy                 15 mins             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/callmenoway/callmenoway/main/assets/bar_graph.png)
 
 
- Last Updated on 31/12/2025 18:49:15 UTC
+ Last Updated on 01/01/2026 18:50:52 UTC
 <!--END_SECTION:waka-->
