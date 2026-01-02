@@ -242,8 +242,8 @@ Sunday                   60 commits          █░░░░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-rallynav                 1 hr 8 mins         ████████████████████░░░░░   81.78 % 
-InstaGPy                 15 mins             █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
+rallynav                 1 hr 8 mins         ██████████████████░░░░░░░   73.20 % 
+InstaGPy                 25 mins             ███████░░░░░░░░░░░░░░░░░░   26.80 % 
 ```
 
 **Timeline**
@@ -251,5 +251,5 @@ InstaGPy                 15 mins             █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/callmenoway/callmenoway/main/assets/bar_graph.png)
 
 
- Last Updated on 01/01/2026 18:50:52 UTC
+ Last Updated on 02/01/2026 18:49:51 UTC
 <!--END_SECTION:waka-->
