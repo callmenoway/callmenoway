@@ -215,7 +215,7 @@ Languages and Tools:
 
 ## &#x1f4c8; Wakatime Stats
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.63%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.63%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -251,5 +251,5 @@ InstaGPy                 49 mins             ██████████░�
 ![Lines of Code chart](https://raw.githubusercontent.com/callmenoway/callmenoway/main/assets/bar_graph.png)
 
 
- Last Updated on 04/01/2026 18:48:50 UTC
+ Last Updated on 05/01/2026 18:53:36 UTC
 <!--END_SECTION:waka-->
