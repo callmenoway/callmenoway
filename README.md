@@ -116,42 +116,10 @@
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.72%20million%20lines%20of%20code-blue?style=flat)
 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                70 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
-🌆 Daytime                147 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
-🌃 Evening                1064 commits        ████████████████████░░░░░   81.97 % 
-🌙 Night                  17 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   75 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
-Tuesday                  149 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
-Wednesday                97 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
-Thursday                 505 commits         ██████████░░░░░░░░░░░░░░░   38.91 % 
-Friday                   32 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
-Saturday                 379 commits         ███████░░░░░░░░░░░░░░░░░░   29.20 % 
-Sunday                   61 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🐱‍💻 Projects: 
-frontend                 49 mins             ███████░░░░░░░░░░░░░░░░░░   27.66 % 
-trading_bot              39 mins             ██████░░░░░░░░░░░░░░░░░░░   22.07 % 
-websocket                26 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
-mt5-trading-bot          23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
-racemaster_tracking      19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
-```
-
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/callmenoway/callmenoway/main/assets/bar_graph.png)
 
 
- Last Updated on 27/05/2026 20:32:31 UTC
+ Last Updated on 28/05/2026 20:40:58 UTC
 <!--END_SECTION:waka-->
