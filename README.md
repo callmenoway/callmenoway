@@ -18,6 +18,24 @@
 <td><a href="mailto:admin@davidecose.it" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/gmail/D14836" alt="csharp" width="40" height="40"/></a></td>
 </tr></table>
 
+<h3 align="left">Certifications:</h3>
+<table><tr>
+<td>
+  <a href="https://www.credly.com/badges/7a53ef9b-cb41-4a3f-b71c-5dc87198c0da" target="_blank" rel="noreferrer">
+    <img src="./assets/badge1.png" alt="Certificazione 1" width="110" height="110"/>
+  </a>
+</td>
+<td>
+  <a href="https://www.credly.com/badges/951b159b-a1b4-4d22-b9b4-59b494662ee4" target="_blank" rel="noreferrer">
+    <img src="./assets/badge2.png" alt="Certificazione 2" width="110" height="110"/>
+  </a>
+</td>
+<td>
+  <a href="https://www.credly.com/badges/8932872d-c5ba-4961-9a0a-0f72016da664" target="_blank" rel="noreferrer">
+    <img src="./assets/badge3.png" alt="Certificazione 3" width="110" height="110"/>
+  </a>
+</td>
+</tr></table>
 <h3 align="left">Languages and Tools:</h3>
 <h4 align="left">Backend, Frontend & Mobile:</h4>
 
