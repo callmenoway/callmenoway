@@ -132,6 +132,8 @@
 
 ## &#x1f4c8; Wakatime Stats
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-93%20hrs%2057%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.72%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
@@ -159,11 +161,35 @@ Sunday                   62 commits          █░░░░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-racemaster_roadbook      4 hrs 32 mins       ███████████░░░░░░░░░░░░░░   45.70 % 
-17-luglio-2026-11.14     2 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   28.40 % 
-22-luglio-2026-18.00     2 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
-android                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-intelligent-trading-bot-m3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+racemaster_roadbook      4 hrs 32 mins       ███████████░░░░░░░░░░░░░░   45.96 % 
+17-luglio-2026-11.14     2 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   28.56 % 
+22-luglio-2026-18.00     2 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   23.95 % 
+android                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 8 hrs 42 mins (88.21%)
+
+✍️ 4,044 lines written by AI, 80 lines written by hand (98.06% AI-written)
+
+🔤 50,954,290 Input Tokens, 340,466 Output Tokens
+
+💵 $254.58 Estimated AI Cost This Week
+
+🧠 33 AI Sessions, 124 AI Prompts
+
+Opus                     5,627 lines         █████████████████████░░░░   83.85 % 
+Sonnet                   1,084 lines         ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
+Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 98.06% of written lines came from AI
+📚 Verbose Prompter — average 8,144 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 2.04% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -171,5 +197,5 @@ intelligent-trading-bot-m3 mins              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/callmenoway/callmenoway/main/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2026 19:42:54 UTC
+ Last Updated on 27/07/2026 20:01:40 UTC
 <!--END_SECTION:waka-->
