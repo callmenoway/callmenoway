@@ -132,12 +132,66 @@
 
 ## &#x1f4c8; Wakatime Stats
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-103%20hrs%2015%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.72%20million%20lines%20of%20code-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                71 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+🌆 Daytime                147 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
+🌃 Evening                1068 commits        ████████████████████░░░░░   81.96 % 
+🌙 Night                  17 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   75 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+Tuesday                  150 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
+Wednesday                100 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
+Thursday                 505 commits         ██████████░░░░░░░░░░░░░░░   38.76 % 
+Friday                   32 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+Saturday                 379 commits         ███████░░░░░░░░░░░░░░░░░░   29.09 % 
+Sunday                   62 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🐱‍💻 Projects: 
+racemaster_roadbook      3 hrs 42 mins       █████████████████████████   99.71 % 
+flutter                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 3 hrs 35 mins (96.26%)
+
+✍️ 1,673 lines written by AI, 1 lines written by hand (99.94% AI-written)
+
+🔤 32,690,668 Input Tokens, 176,185 Output Tokens
+
+💵 $165.34 Estimated AI Cost This Week
+
+🧠 13 AI Sessions, 43 AI Prompts
+
+Opus                     1,894 lines         █████████████████████████   100.00 % 
+Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.94% of written lines came from AI
+📄 Detailed Prompter — average 1,017 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.05% of changed lines were hand-edited
+```
 
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/callmenoway/callmenoway/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 00:21:11 UTC
+ Last Updated on 07/08/2026 19:26:55 UTC
 <!--END_SECTION:waka-->
