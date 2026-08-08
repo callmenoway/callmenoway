@@ -132,7 +132,7 @@
 
 ## &#x1f4c8; Wakatime Stats
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-103%20hrs%2015%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-105%20hrs%2034%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.72%20million%20lines%20of%20code-blue?style=flat)
 
@@ -161,31 +161,31 @@ Sunday                   62 commits          █░░░░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-racemaster_roadbook      3 hrs 42 mins       █████████████████████████   99.71 % 
-flutter                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+racemaster_roadbook      4 hrs 54 mins       █████████████████████████   99.78 % 
+flutter                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 35 mins (96.26%)
+⏱ AI Coding Time: 4 hrs 47 mins (97.17%)
 
-✍️ 1,673 lines written by AI, 1 lines written by hand (99.94% AI-written)
+✍️ 2,262 lines written by AI, 1 lines written by hand (99.96% AI-written)
 
-🔤 32,690,668 Input Tokens, 176,185 Output Tokens
+🔤 19,938,483 Input Tokens, 244,676 Output Tokens
 
-💵 $165.34 Estimated AI Cost This Week
+💵 $131.62 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 43 AI Prompts
+🧠 14 AI Sessions, 49 AI Prompts
 
-Opus                     1,894 lines         █████████████████████████   100.00 % 
+Opus                     2,844 lines         █████████████████████████   100.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.94% of written lines came from AI
-📄 Detailed Prompter — average 1,017 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.05% of changed lines were hand-edited
+🤖 AI-Driven — 99.96% of written lines came from AI
+📄 Detailed Prompter — average 1,066 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.04% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -193,5 +193,5 @@ Haiku                    0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/callmenoway/callmenoway/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 19:26:55 UTC
+ Last Updated on 08/08/2026 19:06:14 UTC
 <!--END_SECTION:waka-->
