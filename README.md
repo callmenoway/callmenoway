@@ -161,31 +161,31 @@ Sunday                   62 commits          █░░░░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-racemaster_roadbook      5 hrs 30 mins       █████████████████████████   99.81 % 
-flutter                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+racemaster_roadbook      3 hrs 47 mins       █████████████████████████   99.72 % 
+flutter                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 27 mins (99.13%)
+⏱ AI Coding Time: 3 hrs 45 mins (98.81%)
 
-✍️ 4,359 lines written by AI, 2 lines written by hand (99.95% AI-written)
+✍️ 4,021 lines written by AI, 2 lines written by hand (99.95% AI-written)
 
-🔤 18,088,794 Input Tokens, 292,214 Output Tokens
+🔤 4,580,771 Input Tokens, 222,211 Output Tokens
 
-💵 $131.51 Estimated AI Cost This Week
+💵 $87.99 Estimated AI Cost This Week
 
-🧠 21 AI Sessions, 64 AI Prompts
+🧠 17 AI Sessions, 45 AI Prompts
 
-Opus                     5,156 lines         █████████████████████████   100.00 % 
+Opus                     5,023 lines         █████████████████████████   100.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.95% of written lines came from AI
-📄 Detailed Prompter — average 825 characters per prompt
+📄 Detailed Prompter — average 748 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.04% of changed lines were hand-edited
+🚀 High AI Trust — 0.05% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -193,5 +193,5 @@ Haiku                    0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/callmenoway/callmenoway/main/assets/bar_graph.png)
 
 
- Last Updated on 10/08/2026 19:27:27 UTC
+ Last Updated on 11/08/2026 19:32:09 UTC
 <!--END_SECTION:waka-->
