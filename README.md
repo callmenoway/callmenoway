@@ -132,7 +132,7 @@
 
 ## &#x1f4c8; Wakatime Stats
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-106%20hrs%2044%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-107%20hrs%204%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.72%20million%20lines%20of%20code-blue?style=flat)
 
@@ -161,30 +161,30 @@ Sunday                   62 commits          █░░░░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-racemaster_roadbook      3 hrs 31 mins       █████████████████████████   100.00 % 
+racemaster_roadbook      4 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 28 mins (98.74%)
+⏱ AI Coding Time: 4 hrs 3 mins (99.42%)
 
-✍️ 3,560 lines written by AI, 1 lines written by hand (99.97% AI-written)
+✍️ 3,632 lines written by AI, 1 lines written by hand (99.97% AI-written)
 
-🔤 1,641,470 Input Tokens, 206,051 Output Tokens
+🔤 1,877,198 Input Tokens, 276,071 Output Tokens
 
-💵 $76.25 Estimated AI Cost This Week
+💵 $28.94 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 41 AI Prompts
+🧠 16 AI Sessions, 47 AI Prompts
 
-Opus                     4,897 lines         █████████████████████████   100.00 % 
+Opus                     4,049 lines         █████████████████████████   100.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.97% of written lines came from AI
-📝 Concise Prompter — average 456 characters per prompt
+📄 Detailed Prompter — average 507 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.03% of changed lines were hand-edited
+🚀 High AI Trust — 0.02% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -192,5 +192,5 @@ Haiku                    0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/callmenoway/callmenoway/main/assets/bar_graph.png)
 
 
- Last Updated on 13/08/2026 19:32:05 UTC
+ Last Updated on 14/08/2026 19:25:20 UTC
 <!--END_SECTION:waka-->
