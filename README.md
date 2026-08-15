@@ -132,7 +132,7 @@
 
 ## &#x1f4c8; Wakatime Stats
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-107%20hrs%204%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-107%20hrs%2010%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.72%20million%20lines%20of%20code-blue?style=flat)
 
@@ -161,30 +161,30 @@ Sunday                   62 commits          █░░░░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-racemaster_roadbook      4 hrs 4 mins        █████████████████████████   100.00 % 
+racemaster_roadbook      1 hr 51 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 3 mins (99.42%)
+⏱ AI Coding Time: 1 hr 50 mins (98.57%)
 
-✍️ 3,632 lines written by AI, 1 lines written by hand (99.97% AI-written)
+✍️ 2,433 lines written by AI, 1 lines written by hand (99.96% AI-written)
 
-🔤 1,877,198 Input Tokens, 276,071 Output Tokens
+🔤 953,683 Input Tokens, 142,730 Output Tokens
 
-💵 $28.94 Estimated AI Cost This Week
+💵 $12.51 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 47 AI Prompts
+🧠 13 AI Sessions, 28 AI Prompts
 
-Opus                     4,049 lines         █████████████████████████   100.00 % 
+Opus                     2,460 lines         █████████████████████████   100.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.97% of written lines came from AI
-📄 Detailed Prompter — average 507 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.02% of changed lines were hand-edited
+🤖 AI-Driven — 99.96% of written lines came from AI
+📝 Concise Prompter — average 455 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.04% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -192,5 +192,5 @@ Haiku                    0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/callmenoway/callmenoway/main/assets/bar_graph.png)
 
 
- Last Updated on 14/08/2026 19:25:20 UTC
+ Last Updated on 15/08/2026 18:53:11 UTC
 <!--END_SECTION:waka-->
