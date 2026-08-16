@@ -161,30 +161,30 @@ Sunday                   62 commits          █░░░░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-racemaster_roadbook      1 hr 51 mins        █████████████████████████   100.00 % 
+racemaster_roadbook      1 hr                █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 50 mins (98.57%)
+⏱ AI Coding Time: 1 hr (99.69%)
 
-✍️ 2,433 lines written by AI, 1 lines written by hand (99.96% AI-written)
+✍️ 117 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 953,683 Input Tokens, 142,730 Output Tokens
+🔤 446,241 Input Tokens, 81,185 Output Tokens
 
-💵 $12.51 Estimated AI Cost This Week
+💵 $6.20 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 28 AI Prompts
+🧠 6 AI Sessions, 14 AI Prompts
 
-Opus                     2,460 lines         █████████████████████████   100.00 % 
+Opus                     140 lines           █████████████████████████   100.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.96% of written lines came from AI
-📝 Concise Prompter — average 455 characters per prompt
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 645 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.04% of changed lines were hand-edited
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -192,5 +192,5 @@ Haiku                    0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/callmenoway/callmenoway/main/assets/bar_graph.png)
 
 
- Last Updated on 15/08/2026 18:53:11 UTC
+ Last Updated on 16/08/2026 18:52:33 UTC
 <!--END_SECTION:waka-->
