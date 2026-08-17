@@ -132,7 +132,7 @@
 
 ## &#x1f4c8; Wakatime Stats
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-107%20hrs%2010%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-108%20hrs%2015%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.72%20million%20lines%20of%20code-blue?style=flat)
 
@@ -161,28 +161,28 @@ Sunday                   62 commits          █░░░░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-racemaster_roadbook      1 hr                █████████████████████████   100.00 % 
+racemaster_roadbook      2 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr (99.69%)
+⏱ AI Coding Time: 2 hrs 7 mins (93.32%)
 
-✍️ 117 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 599 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 446,241 Input Tokens, 81,185 Output Tokens
+🔤 622,037 Input Tokens, 131,412 Output Tokens
 
-💵 $6.20 Estimated AI Cost This Week
+💵 $13.62 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 14 AI Prompts
+🧠 9 AI Sessions, 21 AI Prompts
 
-Opus                     140 lines           █████████████████████████   100.00 % 
+Opus                     626 lines           █████████████████████████   100.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 645 characters per prompt
+📄 Detailed Prompter — average 1,473 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -192,5 +192,5 @@ Haiku                    0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/callmenoway/callmenoway/main/assets/bar_graph.png)
 
 
- Last Updated on 16/08/2026 18:52:33 UTC
+ Last Updated on 17/08/2026 19:06:08 UTC
 <!--END_SECTION:waka-->
