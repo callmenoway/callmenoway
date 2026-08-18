@@ -132,7 +132,7 @@
 
 ## &#x1f4c8; Wakatime Stats
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-108%20hrs%2015%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-111%20hrs%2018%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.72%20million%20lines%20of%20code-blue?style=flat)
 
@@ -161,30 +161,31 @@ Sunday                   62 commits          █░░░░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-racemaster_roadbook      2 hrs 16 mins       █████████████████████████   100.00 % 
+racemaster_roadbook      5 hrs 10 mins       ███████████████████████░░   92.92 % 
+racemaster_updater       23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 7 mins (93.32%)
+⏱ AI Coding Time: 5 hrs 10 mins (92.83%)
 
-✍️ 599 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 5,443 lines written by AI, 5 lines written by hand (99.91% AI-written)
 
-🔤 622,037 Input Tokens, 131,412 Output Tokens
+🔤 1,607,907 Input Tokens, 276,502 Output Tokens
 
-💵 $13.62 Estimated AI Cost This Week
+💵 $31.36 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 21 AI Prompts
+🧠 17 AI Sessions, 57 AI Prompts
 
-Opus                     626 lines           █████████████████████████   100.00 % 
+Opus                     5,721 lines         █████████████████████████   100.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,473 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🤖 AI-Driven — 99.91% of written lines came from AI
+📄 Detailed Prompter — average 797 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.12% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -192,5 +193,5 @@ Haiku                    0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/callmenoway/callmenoway/main/assets/bar_graph.png)
 
 
- Last Updated on 17/08/2026 19:06:08 UTC
+ Last Updated on 18/08/2026 19:04:48 UTC
 <!--END_SECTION:waka-->
