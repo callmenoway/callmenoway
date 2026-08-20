@@ -132,7 +132,7 @@
 
 ## &#x1f4c8; Wakatime Stats
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-111%20hrs%2018%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-114%20hrs%2022%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.72%20million%20lines%20of%20code-blue?style=flat)
 
@@ -161,31 +161,35 @@ Sunday                   62 commits          █░░░░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-racemaster_roadbook      5 hrs 22 mins       ███████████████████████░░   93.16 % 
-racemaster_updater       23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+racemaster_roadbook      4 hrs 54 mins       ███████████████░░░░░░░░░░   58.03 % 
+firmware-develop         1 hr 21 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
+racemaster_lora          1 hr 16 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
+heltec_v3_meshtastic_tx  31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+racemaster_updater       23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 10 mins (89.65%)
+⏱ AI Coding Time: 7 hrs 46 mins (91.99%)
 
-✍️ 5,443 lines written by AI, 5 lines written by hand (99.91% AI-written)
+✍️ 7,677 lines written by AI, 30 lines written by hand (99.61% AI-written)
 
-🔤 1,607,907 Input Tokens, 276,502 Output Tokens
+🔤 2,295,878 Input Tokens, 347,152 Output Tokens
 
-💵 $31.36 Estimated AI Cost This Week
+💵 $45.64 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 57 AI Prompts
+🧠 20 AI Sessions, 105 AI Prompts
 
-Opus                     5,721 lines         █████████████████████████   100.00 % 
+Opus                     8,641 lines         █████████████████████████   100.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.91% of written lines came from AI
-📄 Detailed Prompter — average 797 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.19% of changed lines were hand-edited
+🤖 AI-Driven — 99.61% of written lines came from AI
+📄 Detailed Prompter — average 617 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 4.41% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -193,5 +197,5 @@ Haiku                    0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/callmenoway/callmenoway/main/assets/bar_graph.png)
 
 
- Last Updated on 19/08/2026 18:59:23 UTC
+ Last Updated on 20/08/2026 19:08:09 UTC
 <!--END_SECTION:waka-->
