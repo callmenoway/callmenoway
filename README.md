@@ -132,28 +132,28 @@
 
 ## &#x1f4c8; Wakatime Stats
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-114%20hrs%2022%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-114%20hrs%2041%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.72%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                71 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
-🌆 Daytime                147 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
-🌃 Evening                1068 commits        ████████████████████░░░░░   81.96 % 
-🌙 Night                  17 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+🌞 Morning                68 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+🌆 Daytime                143 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
+🌃 Evening                1066 commits        █████████████████████░░░░   82.44 % 
+🌙 Night                  16 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   75 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
-Tuesday                  150 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
-Wednesday                100 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
-Thursday                 505 commits         ██████████░░░░░░░░░░░░░░░   38.76 % 
-Friday                   32 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
-Saturday                 379 commits         ███████░░░░░░░░░░░░░░░░░░   29.09 % 
-Sunday                   62 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Monday                   72 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+Tuesday                  146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
+Wednesday                100 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
+Thursday                 505 commits         ██████████░░░░░░░░░░░░░░░   39.06 % 
+Friday                   32 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+Saturday                 376 commits         ███████░░░░░░░░░░░░░░░░░░   29.08 % 
+Sunday                   62 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
 ```
 
 
@@ -161,35 +161,35 @@ Sunday                   62 commits          █░░░░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-racemaster_roadbook      4 hrs 54 mins       ███████████████░░░░░░░░░░   58.03 % 
-firmware-develop         1 hr 21 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
-racemaster_lora          1 hr 16 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
-heltec_v3_meshtastic_tx  31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-racemaster_updater       23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+racemaster_roadbook      4 hrs 30 mins       ██████████████░░░░░░░░░░░   54.43 % 
+firmware-develop         1 hr 21 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
+racemaster_lora          1 hr 16 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
+heltec_v3_meshtastic_tx  44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+racemaster_updater       23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 46 mins (91.99%)
+⏱ AI Coding Time: 7 hrs 36 mins (91.83%)
 
-✍️ 7,677 lines written by AI, 30 lines written by hand (99.61% AI-written)
+✍️ 7,438 lines written by AI, 30 lines written by hand (99.6% AI-written)
 
-🔤 2,295,878 Input Tokens, 347,152 Output Tokens
+🔤 2,024,571 Input Tokens, 308,482 Output Tokens
 
-💵 $45.64 Estimated AI Cost This Week
+💵 $40.91 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 105 AI Prompts
+🧠 21 AI Sessions, 103 AI Prompts
 
-Opus                     8,641 lines         █████████████████████████   100.00 % 
+Opus                     8,494 lines         █████████████████████████   100.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.61% of written lines came from AI
-📄 Detailed Prompter — average 617 characters per prompt
+🤖 AI-Driven — 99.6% of written lines came from AI
+📄 Detailed Prompter — average 584 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 4.41% of changed lines were hand-edited
+🚀 High AI Trust — 4.54% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -197,5 +197,5 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/callmenoway/callmenoway/main/assets/bar_graph.png)
 
 
- Last Updated on 20/08/2026 19:08:09 UTC
+ Last Updated on 21/08/2026 19:04:31 UTC
 <!--END_SECTION:waka-->
