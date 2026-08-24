@@ -132,7 +132,7 @@
 
 ## &#x1f4c8; Wakatime Stats
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-115%20hrs%209%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-117%20hrs%2058%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.72%20million%20lines%20of%20code-blue?style=flat)
 
@@ -161,35 +161,35 @@ Sunday                   62 commits          █░░░░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-racemaster_roadbook      4 hrs 40 mins       █████████████░░░░░░░░░░░░   51.03 % 
-heltec_v3_meshtastic_tx  1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
-firmware-develop         1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
-racemaster_lora          1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
-racemaster_updater       23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
+racemaster_roadbook      3 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   32.16 % 
+root-racemaster          3 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   28.20 % 
+heltec_v3_meshtastic_tx  1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+firmware-develop         1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+racemaster_lora          1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 58 mins (87.22%)
+⏱ AI Coding Time: 9 hrs 55 mins (87.75%)
 
-✍️ 7,413 lines written by AI, 31 lines written by hand (99.58% AI-written)
+✍️ 9,281 lines written by AI, 35 lines written by hand (99.62% AI-written)
 
-🔤 2,142,068 Input Tokens, 315,436 Output Tokens
+🔤 19,094,536 Input Tokens, 537,198 Output Tokens
 
-💵 $42.80 Estimated AI Cost This Week
+💵 $78.98 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 111 AI Prompts
+🧠 25 AI Sessions, 129 AI Prompts
 
-Opus                     8,524 lines         █████████████████████████   100.00 % 
+Opus                     8,147 lines         ███████████████████░░░░░░   75.75 % 
+Sonnet                   2,608 lines         ██████░░░░░░░░░░░░░░░░░░░   24.25 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.58% of written lines came from AI
-📄 Detailed Prompter — average 561 characters per prompt
+🤖 AI-Driven — 99.62% of written lines came from AI
+📝 Concise Prompter — average 461 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 4.56% of changed lines were hand-edited
+🚀 High AI Trust — 3.66% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -197,5 +197,5 @@ Haiku                    0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/callmenoway/callmenoway/main/assets/bar_graph.png)
 
 
- Last Updated on 23/08/2026 18:54:02 UTC
+ Last Updated on 24/08/2026 19:07:51 UTC
 <!--END_SECTION:waka-->
