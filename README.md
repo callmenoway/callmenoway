@@ -161,35 +161,35 @@ Sunday                   62 commits          █░░░░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-racemaster_roadbook      3 hrs 44 mins       ██████████████░░░░░░░░░░░   56.95 % 
-racemaster_tabletmanager 53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-heltec_v3_meshtastic_tx  53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
-5-settembre-2026-1.38    43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
-esp32s3_n16r8_dxlr22_mesh9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+racemaster_roadbook      4 hrs 45 mins       ██████████████████░░░░░░░   71.03 % 
+racemaster_tabletmanager 55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
+5-settembre-2026-1.38    43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+Unknown Project          15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+davidecosentino          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 19 mins (96.24%)
+⏱ AI Coding Time: 6 hrs 27 mins (96.31%)
 
-✍️ 3,515 lines written by AI, 7 lines written by hand (99.8% AI-written)
+✍️ 2,246 lines written by AI, 7 lines written by hand (99.69% AI-written)
 
-🔤 1,971,074 Input Tokens, 502,316 Output Tokens
+🔤 2,108,830 Input Tokens, 468,078 Output Tokens
 
-💵 $32.29 Estimated AI Cost This Week
+💵 $37.05 Estimated AI Cost This Week
 
-🧠 30 AI Sessions, 67 AI Prompts
+🧠 28 AI Sessions, 66 AI Prompts
 
-Sonnet                   2,952 lines         ████████████████████░░░░░   80.20 % 
-GPT                      729 lines           █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
+Sonnet                   1,336 lines         ██████████████░░░░░░░░░░░   56.71 % 
+GPT                      1,020 lines         ███████████░░░░░░░░░░░░░░   43.29 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.8% of written lines came from AI
-📄 Detailed Prompter — average 559 characters per prompt
+🤖 AI-Driven — 99.69% of written lines came from AI
+📄 Detailed Prompter — average 553 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.19% of changed lines were hand-edited
+🚀 High AI Trust — 0.3% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -197,5 +197,5 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/callmenoway/callmenoway/main/assets/bar_graph.png)
 
 
- Last Updated on 08/09/2026 21:17:34 UTC
+ Last Updated on 09/09/2026 21:02:40 UTC
 <!--END_SECTION:waka-->
