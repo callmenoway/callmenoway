@@ -161,35 +161,34 @@ Sunday                   62 commits          █░░░░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-racemaster_roadbook      4 hrs 45 mins       ████████████████████░░░░░   80.93 % 
-5-settembre-2026-1.38    43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
-Unknown Project          11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
-racemaster_tabletmanager 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
-davidecosentino          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+racemaster_roadbook      3 hrs 52 mins       █████████████████████░░░░   82.68 % 
+5-settembre-2026-1.38    43 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+racemaster_tabletmanager 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+davidecosentino          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 37 mins (95.8%)
+⏱ AI Coding Time: 4 hrs 26 mins (94.73%)
 
-✍️ 1,793 lines written by AI, 7 lines written by hand (99.61% AI-written)
+✍️ 1,311 lines written by AI, 7 lines written by hand (99.47% AI-written)
 
-🔤 1,743,911 Input Tokens, 433,900 Output Tokens
+🔤 1,224,204 Input Tokens, 378,062 Output Tokens
 
-💵 $33.03 Estimated AI Cost This Week
+💵 $23.37 Estimated AI Cost This Week
 
-🧠 21 AI Sessions, 55 AI Prompts
+🧠 16 AI Sessions, 39 AI Prompts
 
-Sonnet                   1,336 lines         ██████████████████░░░░░░░   70.28 % 
-GPT                      565 lines           ███████░░░░░░░░░░░░░░░░░░   29.72 % 
+Sonnet                   1,334 lines         █████████████████████████   98.96 % 
+GPT                      14 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.61% of written lines came from AI
-📄 Detailed Prompter — average 530 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.37% of changed lines were hand-edited
+🤖 AI-Driven — 99.47% of written lines came from AI
+📄 Detailed Prompter — average 644 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.52% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -197,5 +196,5 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/callmenoway/callmenoway/main/assets/bar_graph.png)
 
 
- Last Updated on 10/09/2026 21:01:17 UTC
+ Last Updated on 11/09/2026 21:05:49 UTC
 <!--END_SECTION:waka-->
