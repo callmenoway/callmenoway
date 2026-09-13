@@ -161,33 +161,31 @@ Sunday                   62 commits          █░░░░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-racemaster_roadbook      2 hrs 57 mins       ████████████████████░░░░░   79.84 % 
-5-settembre-2026-1.38    43 mins             █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
-davidecosentino          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+racemaster_roadbook      1 hr 53 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 27 mins (93.34%)
+⏱ AI Coding Time: 1 hr 38 mins (86.96%)
 
-✍️ 1,252 lines written by AI, 7 lines written by hand (99.44% AI-written)
+✍️ 651 lines written by AI, 7 lines written by hand (98.94% AI-written)
 
-🔤 951,653 Input Tokens, 280,014 Output Tokens
+🔤 538,977 Input Tokens, 176,455 Output Tokens
 
-💵 $18.29 Estimated AI Cost This Week
+💵 $12.66 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 31 AI Prompts
+🧠 3 AI Sessions, 8 AI Prompts
 
-Sonnet                   1,321 lines         █████████████████████████   100.00 % 
+Sonnet                   913 lines           █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.44% of written lines came from AI
-📄 Detailed Prompter — average 500 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.54% of changed lines were hand-edited
+🤖 AI-Driven — 98.94% of written lines came from AI
+📄 Detailed Prompter — average 1,273 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 1.03% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -195,5 +193,5 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/callmenoway/callmenoway/main/assets/bar_graph.png)
 
 
- Last Updated on 12/09/2026 20:42:31 UTC
+ Last Updated on 13/09/2026 20:58:51 UTC
 <!--END_SECTION:waka-->
