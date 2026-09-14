@@ -161,31 +161,30 @@ Sunday                   62 commits          █░░░░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-racemaster_roadbook      1 hr 53 mins        █████████████████████████   100.00 % 
+racemaster_roadbook      58 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 38 mins (86.96%)
+⏱ AI Coding Time: 58 mins (100.0%)
 
-✍️ 651 lines written by AI, 7 lines written by hand (98.94% AI-written)
+✍️ 465 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 538,977 Input Tokens, 176,455 Output Tokens
+🔤 253,092 Input Tokens, 59,366 Output Tokens
 
-💵 $12.66 Estimated AI Cost This Week
+💵 $6.84 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 8 AI Prompts
+🧠 1 AI Sessions, 3 AI Prompts
 
-Sonnet                   913 lines           █████████████████████████   100.00 % 
+Sonnet                   745 lines           █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.94% of written lines came from AI
-📄 Detailed Prompter — average 1,273 characters per prompt
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 1,065 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 1.03% of changed lines were hand-edited
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -193,5 +192,5 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/callmenoway/callmenoway/main/assets/bar_graph.png)
 
 
- Last Updated on 13/09/2026 20:58:51 UTC
+ Last Updated on 14/09/2026 21:56:17 UTC
 <!--END_SECTION:waka-->
