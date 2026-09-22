@@ -173,16 +173,15 @@ racemaster_roadbook      1 min               ███████████�
 
 🔤 40,579 Input Tokens, 4,781 Output Tokens
 
-💵 $3.55 Estimated AI Cost This Week
+💵 $0.25 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 2 AI Prompts
+🧠 2 AI Sessions, 3 AI Prompts
 
-Sonnet                   313 lines           █████████████████████████   100.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 3,916 characters per prompt
+📚 Verbose Prompter — average 2,669 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
@@ -192,5 +191,5 @@ GPT                      0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/callmenoway/callmenoway/main/assets/bar_graph.png)
 
 
- Last Updated on 21/09/2026 22:05:27 UTC
+ Last Updated on 22/09/2026 21:31:20 UTC
 <!--END_SECTION:waka-->
