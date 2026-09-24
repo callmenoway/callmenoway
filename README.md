@@ -132,7 +132,7 @@
 
 ## &#x1f4c8; Wakatime Stats
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-127%20hrs%2053%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-128%20hrs%204%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.77%20million%20lines%20of%20code-blue?style=flat)
 
@@ -161,27 +161,32 @@ Sunday                   62 commits          █░░░░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-racemaster_roadbook      1 min               █████████████████████████   100.00 % 
+davidecose.it            7 mins              ███████████░░░░░░░░░░░░░░   44.35 % 
+observer-sessions        7 mins              ██████████░░░░░░░░░░░░░░░   41.87 % 
+racemaster_roadbook      1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
+public                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 0 secs (62.85%)
+⏱ AI Coding Time: 12 mins (72.9%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 40,579 Input Tokens, 4,781 Output Tokens
+🔤 103,557 Input Tokens, 10,022 Output Tokens
 
-💵 $0.25 Estimated AI Cost This Week
+💵 $1.23 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 3 AI Prompts
+🧠 15 AI Sessions, 25 AI Prompts
 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 2,669 characters per prompt
+📚 Verbose Prompter — average 75,425 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
@@ -191,5 +196,5 @@ Sonnet                   0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/callmenoway/callmenoway/main/assets/bar_graph.png)
 
 
- Last Updated on 23/09/2026 21:38:16 UTC
+ Last Updated on 24/09/2026 21:39:00 UTC
 <!--END_SECTION:waka-->
