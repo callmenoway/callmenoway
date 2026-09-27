@@ -132,7 +132,7 @@
 
 ## &#x1f4c8; Wakatime Stats
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-129%20hrs%2027%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-132%20hrs%2029%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.77%20million%20lines%20of%20code-blue?style=flat)
 
@@ -161,36 +161,36 @@ Sunday                   62 commits          █░░░░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-20-settembre-2026-13.49  56 mins             ██████████████░░░░░░░░░░░   55.79 % 
-observer-sessions        17 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
-davidecose.it            15 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
-20-settembre-2026-13.39  5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
-android                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+20-settembre-2026-13.49  3 hrs 41 mins       ████████████████████░░░░░   78.12 % 
+observer-sessions        30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
+davidecose.it            15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
+20-settembre-2026-13.39  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+android                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 34 mins (93.06%)
+⏱ AI Coding Time: 4 hrs 36 mins (97.51%)
 
-✍️ 325 lines written by AI, 1 lines written by hand (99.69% AI-written)
+✍️ 2,117 lines written by AI, 1 lines written by hand (99.95% AI-written)
 
-🔤 544,031 Input Tokens, 110,520 Output Tokens
+🔤 1,821,755 Input Tokens, 559,025 Output Tokens
 
-💵 $7.21 Estimated AI Cost This Week
+💵 $32.33 Estimated AI Cost This Week
 
-🧠 40 AI Sessions, 73 AI Prompts
+🧠 73 AI Sessions, 119 AI Prompts
 
-Sonnet                   466 lines           ██████████████████████░░░   89.10 % 
-Opus                     57 lines            ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
+Sonnet                   2,658 lines         ████████████████████████░   97.90 % 
+Opus                     57 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.69% of written lines came from AI
-📚 Verbose Prompter — average 58,016 characters per prompt
+🤖 AI-Driven — 99.95% of written lines came from AI
+📚 Verbose Prompter — average 41,834 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.19% of changed lines were hand-edited
+🚀 High AI Trust — 0.04% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -198,5 +198,5 @@ Haiku                    0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/callmenoway/callmenoway/main/assets/bar_graph.png)
 
 
- Last Updated on 26/09/2026 21:20:20 UTC
+ Last Updated on 27/09/2026 21:29:59 UTC
 <!--END_SECTION:waka-->
