@@ -161,34 +161,34 @@ Sunday                   62 commits          █░░░░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-racemaster_roadbook      3 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   27.11 % 
-20-settembre-2026-13.49  2 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   24.46 % 
-racemaster_launcher      2 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
-racemaster_appstore      1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
-racemaster_settings      38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+racemaster_roadbook      3 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   36.11 % 
+racemaster_launcher      2 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   24.72 % 
+racemaster_appstore      1 hr 46 mins        █████░░░░░░░░░░░░░░░░░░░░   19.49 % 
+racemaster_settings      38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+composition              14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 6 mins (91.24%)
+⏱ AI Coding Time: 8 hrs 4 mins (88.33%)
 
-✍️ 13,363 lines written by AI, 7 lines written by hand (99.95% AI-written)
+✍️ 11,571 lines written by AI, 7 lines written by hand (99.94% AI-written)
 
-🔤 4,411,463 Input Tokens, 1,366,664 Output Tokens
+🔤 3,133,739 Input Tokens, 918,159 Output Tokens
 
-💵 $76.01 Estimated AI Cost This Week
+💵 $54.13 Estimated AI Cost This Week
 
-🧠 79 AI Sessions, 150 AI Prompts
+🧠 46 AI Sessions, 104 AI Prompts
 
-Sonnet                   14,320 lines        █████████████████████████   100.00 % 
+Sonnet                   12,345 lines        █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.95% of written lines came from AI
-📚 Verbose Prompter — average 6,646 characters per prompt
+🤖 AI-Driven — 99.94% of written lines came from AI
+📚 Verbose Prompter — average 2,441 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.08% of changed lines were hand-edited
+🚀 High AI Trust — 0.1% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -196,5 +196,5 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/callmenoway/callmenoway/main/assets/bar_graph.png)
 
 
- Last Updated on 03/10/2026 21:31:29 UTC
+ Last Updated on 04/10/2026 21:42:04 UTC
 <!--END_SECTION:waka-->
