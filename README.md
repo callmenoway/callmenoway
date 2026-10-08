@@ -132,7 +132,7 @@
 
 ## &#x1f4c8; Wakatime Stats
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-141%20hrs%2029%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-142%20hrs%201%20min-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.77%20million%20lines%20of%20code-blue?style=flat)
 
@@ -161,32 +161,33 @@ Sunday                   62 commits          █░░░░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-racemaster_appstore      1 hr 9 mins         ██████░░░░░░░░░░░░░░░░░░░   24.48 % 
-racemaster_launcher      1 hr 1 min          █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
-RallyManager             45 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
-racemaster_roadbook      40 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-racemaster_settings      38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+racemaster_appstore      1 hr 8 mins         ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
+racemaster_launcher      55 mins             █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
+RallyManager             45 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+racemaster_settings      38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
+racemaster_roadbook      36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 11 mins (89.29%)
+⏱ AI Coding Time: 4 hrs 34 mins (90.08%)
 
-✍️ 6,378 lines written by AI, 4 lines written by hand (99.94% AI-written)
+✍️ 6,374 lines written by AI, 4 lines written by hand (99.94% AI-written)
 
-🔤 1,902,191 Input Tokens, 479,419 Output Tokens
+🔤 1,933,261 Input Tokens, 488,720 Output Tokens
 
-💵 $26.87 Estimated AI Cost This Week
+💵 $27.19 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 67 AI Prompts
+🧠 27 AI Sessions, 81 AI Prompts
 
-Sonnet                   6,949 lines         █████████████████████████   100.00 % 
+Sonnet                   6,945 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Cline                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.94% of written lines came from AI
-📝 Concise Prompter — average 383 characters per prompt
+📝 Concise Prompter — average 325 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.09% of changed lines were hand-edited
 ```
@@ -196,5 +197,5 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/callmenoway/callmenoway/main/assets/bar_graph.png)
 
 
- Last Updated on 07/10/2026 23:14:03 UTC
+ Last Updated on 08/10/2026 23:29:24 UTC
 <!--END_SECTION:waka-->
