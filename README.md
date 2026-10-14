@@ -161,35 +161,35 @@ Sunday                   62 commits          █░░░░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-racemaster_roadbook      50 mins             ███████░░░░░░░░░░░░░░░░░░   26.13 % 
-racemaster_tabletmanager 46 mins             ██████░░░░░░░░░░░░░░░░░░░   23.97 % 
-Android 13 -KIOSK        26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-racemaster_customizer    16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
-27-settembre-2026-12.13  16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
+racemaster_tabletmanager 46 mins             ██████░░░░░░░░░░░░░░░░░░░   25.60 % 
+racemaster_roadbook      44 mins             ██████░░░░░░░░░░░░░░░░░░░   24.48 % 
+Android 13 -KIOSK        26 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+27-settembre-2026-12.13  16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+qwen                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 45 mins (86.26%)
+⏱ AI Coding Time: 2 hrs 29 mins (83.27%)
 
-✍️ 1,670 lines written by AI, 1 lines written by hand (99.94% AI-written)
+✍️ 1,454 lines written by AI, 2 lines written by hand (99.86% AI-written)
 
-🔤 783,723 Input Tokens, 163,541 Output Tokens
+🔤 703,475 Input Tokens, 144,596 Output Tokens
 
-💵 $8.40 Estimated AI Cost This Week
+💵 $7.52 Estimated AI Cost This Week
 
-🧠 27 AI Sessions, 62 AI Prompts
+🧠 24 AI Sessions, 56 AI Prompts
 
-Sonnet                   1,685 lines         █████████████████████████   100.00 % 
+Sonnet                   1,468 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Cline                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.94% of written lines came from AI
-📚 Verbose Prompter — average 1,839 characters per prompt
+🤖 AI-Driven — 99.86% of written lines came from AI
+📚 Verbose Prompter — average 2,016 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.12% of changed lines were hand-edited
+🚀 High AI Trust — 0.27% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -197,5 +197,5 @@ Cline                    0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/callmenoway/callmenoway/main/assets/bar_graph.png)
 
 
- Last Updated on 13/10/2026 22:58:14 UTC
+ Last Updated on 14/10/2026 21:51:13 UTC
 <!--END_SECTION:waka-->
