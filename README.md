@@ -161,35 +161,34 @@ Sunday                   62 commits          █░░░░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-video                    58 mins             ███████░░░░░░░░░░░░░░░░░░   27.65 % 
-racemaster-redesign      40 mins             █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
-racemaster_roadbook      35 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
-testdelcazzo             25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
-observer-sessions        12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
+video                    58 mins             █████████░░░░░░░░░░░░░░░░   34.73 % 
+racemaster-redesign      40 mins             ██████░░░░░░░░░░░░░░░░░░░   24.19 % 
+testdelcazzo             25 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
+observer-sessions        12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
+8-ottobre-2026-13.56     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 15 mins (92.68%)
+⏱ AI Coding Time: 2 hrs 32 mins (90.62%)
 
-✍️ 384 lines written by AI, 2 lines written by hand (99.48% AI-written)
+✍️ 252 lines written by AI, 1 lines written by hand (99.6% AI-written)
 
-🔤 961,153 Input Tokens, 204,568 Output Tokens
+🔤 695,807 Input Tokens, 175,103 Output Tokens
 
-💵 $17.33 Estimated AI Cost This Week
+💵 $14.99 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 38 AI Prompts
+🧠 15 AI Sessions, 25 AI Prompts
 
-Opus                     252 lines           ████████████████░░░░░░░░░   63.80 % 
-Sonnet                   143 lines           █████████░░░░░░░░░░░░░░░░   36.20 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     252 lines           █████████████████████████   100.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.48% of written lines came from AI
-📚 Verbose Prompter — average 7,510 characters per prompt
+🤖 AI-Driven — 99.6% of written lines came from AI
+📚 Verbose Prompter — average 11,335 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.75% of changed lines were hand-edited
+🚀 High AI Trust — 0.79% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -197,5 +196,5 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/callmenoway/callmenoway/main/assets/bar_graph.png)
 
 
- Last Updated on 16/10/2026 21:26:54 UTC
+ Last Updated on 17/10/2026 20:47:02 UTC
 <!--END_SECTION:waka-->
