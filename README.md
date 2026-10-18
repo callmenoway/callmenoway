@@ -161,32 +161,32 @@ Sunday                   62 commits          █░░░░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-video                    58 mins             █████████░░░░░░░░░░░░░░░░   34.73 % 
-racemaster-redesign      40 mins             ██████░░░░░░░░░░░░░░░░░░░   24.19 % 
-testdelcazzo             25 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
-observer-sessions        12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
-8-ottobre-2026-13.56     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
+video                    58 mins             █████████████░░░░░░░░░░░░   53.69 % 
+testdelcazzo             25 mins             ██████░░░░░░░░░░░░░░░░░░░   23.89 % 
+8-ottobre-2026-13.56     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+observer-sessions        8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
+Unknown Project          3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 32 mins (90.62%)
+⏱ AI Coding Time: 1 hr 32 mins (85.5%)
 
 ✍️ 252 lines written by AI, 1 lines written by hand (99.6% AI-written)
 
-🔤 695,807 Input Tokens, 175,103 Output Tokens
+🔤 545,451 Input Tokens, 131,784 Output Tokens
 
-💵 $14.99 Estimated AI Cost This Week
+💵 $13.65 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 25 AI Prompts
+🧠 8 AI Sessions, 14 AI Prompts
 
 Opus                     252 lines           █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.6% of written lines came from AI
-📚 Verbose Prompter — average 11,335 characters per prompt
+📚 Verbose Prompter — average 8,383 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.79% of changed lines were hand-edited
 ```
@@ -196,5 +196,5 @@ Sonnet                   0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/callmenoway/callmenoway/main/assets/bar_graph.png)
 
 
- Last Updated on 17/10/2026 20:47:02 UTC
+ Last Updated on 18/10/2026 20:56:18 UTC
 <!--END_SECTION:waka-->
