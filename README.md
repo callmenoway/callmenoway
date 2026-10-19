@@ -161,34 +161,33 @@ Sunday                   62 commits          █░░░░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-video                    58 mins             █████████████░░░░░░░░░░░░   53.69 % 
-testdelcazzo             25 mins             ██████░░░░░░░░░░░░░░░░░░░   23.89 % 
-8-ottobre-2026-13.56     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
-observer-sessions        8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
-Unknown Project          3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+testdelcazzo             25 mins             ███████████████░░░░░░░░░░   59.38 % 
+8-ottobre-2026-13.56     12 mins             ███████░░░░░░░░░░░░░░░░░░   28.82 % 
+Unknown Project          3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+observer-sessions        1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 32 mins (85.5%)
+⏱ AI Coding Time: 27 mins (63.95%)
 
-✍️ 252 lines written by AI, 1 lines written by hand (99.6% AI-written)
+✍️ 0 lines written by AI, 1 lines written by hand (0.0% AI-written)
 
-🔤 545,451 Input Tokens, 131,784 Output Tokens
+🔤 96,959 Input Tokens, 40,669 Output Tokens
 
-💵 $13.65 Estimated AI Cost This Week
+💵 $5.85 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 14 AI Prompts
+🧠 4 AI Sessions, 4 AI Prompts
 
-Opus                     252 lines           █████████████████████████   100.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.6% of written lines came from AI
-📚 Verbose Prompter — average 8,383 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.79% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📚 Verbose Prompter — average 12,981 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -196,5 +195,5 @@ Sonnet                   0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/callmenoway/callmenoway/main/assets/bar_graph.png)
 
 
- Last Updated on 18/10/2026 20:56:18 UTC
+ Last Updated on 19/10/2026 22:31:29 UTC
 <!--END_SECTION:waka-->
