@@ -140,19 +140,19 @@
 
 ```text
 🌞 Morning                70 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
-🌆 Daytime                147 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
-🌃 Evening                2608 commits        ███████████████████████░░   91.77 % 
-🌙 Night                  17 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+🌆 Daytime                147 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+🌃 Evening                2608 commits        ███████████████████████░░   91.57 % 
+🌙 Night                  23 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   75 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
-Tuesday                  149 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
-Wednesday                1640 commits        ██████████████░░░░░░░░░░░   57.71 % 
-Thursday                 505 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
-Friday                   32 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
-Saturday                 379 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
+Monday                   75 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+Tuesday                  155 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
+Wednesday                1640 commits        ██████████████░░░░░░░░░░░   57.58 % 
+Thursday                 505 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
+Friday                   32 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+Saturday                 379 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
 Sunday                   62 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
 ```
 
@@ -161,33 +161,14 @@ Sunday                   62 commits          █░░░░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-testdelcazzo             25 mins             ███████████████░░░░░░░░░░   59.38 % 
-8-ottobre-2026-13.56     12 mins             ███████░░░░░░░░░░░░░░░░░░   28.82 % 
-Unknown Project          3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
-observer-sessions        1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+8-ottobre-2026-13.56     12 mins             ████████████████████░░░░░   79.93 % 
+Unknown Project          3 mins              █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 27 mins (63.95%)
-
-✍️ 0 lines written by AI, 1 lines written by hand (0.0% AI-written)
-
-🔤 96,959 Input Tokens, 40,669 Output Tokens
-
-💵 $5.85 Estimated AI Cost This Week
-
-🧠 4 AI Sessions, 4 AI Prompts
-
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 12,981 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **Timeline**
@@ -195,5 +176,5 @@ Sonnet                   0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/callmenoway/callmenoway/main/assets/bar_graph.png)
 
 
- Last Updated on 19/10/2026 22:31:29 UTC
+ Last Updated on 20/10/2026 21:46:13 UTC
 <!--END_SECTION:waka-->
