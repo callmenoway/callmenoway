@@ -132,7 +132,7 @@
 
 ## &#x1f4c8; Wakatime Stats
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-143%20hrs%2059%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-144%20hrs%202%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.77%20million%20lines%20of%20code-blue?style=flat)
 
@@ -161,13 +161,33 @@ Sunday                   62 commits          █░░░░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-Unknown Project          3 mins              █████████████████████████   100.00 % 
+trading engine           4 hrs 52 mins       ██████████████████████░░░   86.19 % 
+otterwiki-obsidian       19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+promo                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+ezee                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+racemaster_roadbook      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 5 hrs 30 mins (97.55%)
+
+✍️ 9,447 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 2,181,326 Input Tokens, 722,395 Output Tokens
+
+💵 $52.20 Estimated AI Cost This Week
+
+🧠 7 AI Sessions, 20 AI Prompts
+
+Opus                     9,538 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 814 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -175,5 +195,5 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/callmenoway/callmenoway/main/assets/bar_graph.png)
 
 
- Last Updated on 22/10/2026 21:47:53 UTC
+ Last Updated on 23/10/2026 21:33:44 UTC
 <!--END_SECTION:waka-->
