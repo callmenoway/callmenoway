@@ -161,17 +161,17 @@ Sunday                   62 commits          █░░░░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-trading engine           4 hrs 52 mins       ██████████████████████░░░   86.19 % 
-otterwiki-obsidian       19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
-promo                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
-ezee                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
-racemaster_roadbook      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+trading engine           4 hrs 52 mins       ██████████████████████░░░   87.00 % 
+otterwiki-obsidian       19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+promo                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+ezee                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+racemaster_roadbook      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 30 mins (97.55%)
+⏱ AI Coding Time: 5 hrs 30 mins (98.47%)
 
 ✍️ 9,447 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
@@ -195,5 +195,5 @@ Opus                     9,538 lines         ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/callmenoway/callmenoway/main/assets/bar_graph.png)
 
 
- Last Updated on 23/10/2026 21:33:44 UTC
+ Last Updated on 24/10/2026 21:01:57 UTC
 <!--END_SECTION:waka-->
