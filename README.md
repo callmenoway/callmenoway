@@ -132,7 +132,7 @@
 
 ## &#x1f4c8; Wakatime Stats
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-144%20hrs%202%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-144%20hrs%2031%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.77%20million%20lines%20of%20code-blue?style=flat)
 
@@ -161,31 +161,31 @@ Sunday                   62 commits          █░░░░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-trading engine           4 hrs 52 mins       ██████████████████████░░░   87.00 % 
-otterwiki-obsidian       19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
-promo                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
-ezee                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
-racemaster_roadbook      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+trading engine           3 hrs 57 mins       ████████████████████░░░░░   78.38 % 
+3d-VT10APRO              25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+otterwiki-obsidian       19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+promo                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+racemaster_roadbook      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 30 mins (98.47%)
+⏱ AI Coding Time: 4 hrs 57 mins (98.3%)
 
-✍️ 9,447 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 6,562 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,181,326 Input Tokens, 722,395 Output Tokens
+🔤 1,875,856 Input Tokens, 535,046 Output Tokens
 
-💵 $52.20 Estimated AI Cost This Week
+💵 $41.96 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 20 AI Prompts
+🧠 7 AI Sessions, 19 AI Prompts
 
-Opus                     9,538 lines         █████████████████████████   100.00 % 
+Opus                     6,642 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 814 characters per prompt
+📝 Concise Prompter — average 459 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -195,5 +195,5 @@ Opus                     9,538 lines         ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/callmenoway/callmenoway/main/assets/bar_graph.png)
 
 
- Last Updated on 25/10/2026 21:01:30 UTC
+ Last Updated on 26/10/2026 22:48:32 UTC
 <!--END_SECTION:waka-->
