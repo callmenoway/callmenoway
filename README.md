@@ -161,32 +161,32 @@ Sunday                   62 commits          █░░░░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-3d-VT10APRO              25 mins             ███████░░░░░░░░░░░░░░░░░░   29.15 % 
-trading engine           22 mins             ██████░░░░░░░░░░░░░░░░░░░   25.95 % 
-otterwiki-obsidian       19 mins             █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
-promo                    7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
-racemaster_roadbook      5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
+3d-VT10APRO              25 mins             █████████████████░░░░░░░░   67.62 % 
+racemaster_roadbook      5 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
+lib                      2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+ref                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+testdelcazzo             1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 21 mins (94.07%)
+⏱ AI Coding Time: 32 mins (86.25%)
 
-✍️ 2,433 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 733 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 462,671 Input Tokens, 216,273 Output Tokens
+🔤 165,032 Input Tokens, 92,059 Output Tokens
 
-💵 $11.09 Estimated AI Cost This Week
+💵 $4.69 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 10 AI Prompts
+🧠 2 AI Sessions, 2 AI Prompts
 
-Opus                     2,513 lines         █████████████████████████   100.00 % 
+Opus                     814 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 641 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📄 Detailed Prompter — average 776 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -195,5 +195,5 @@ Opus                     2,513 lines         ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/callmenoway/callmenoway/main/assets/bar_graph.png)
 
 
- Last Updated on 27/10/2026 22:28:07 UTC
+ Last Updated on 28/10/2026 22:44:53 UTC
 <!--END_SECTION:waka-->
