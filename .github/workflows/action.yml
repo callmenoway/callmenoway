@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_OAUTH_TOKEN || secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_LINES_OF_CODE: true
           SHOW_TOTAL_CODE_TIME: false
@@ -24,4 +24,4 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: false
           SHOW_SHORT_INFO: false
           DEBUG_LOGGING: false
-          Timeline: false
+          SHOW_LOC_CHART: true
